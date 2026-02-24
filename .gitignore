@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Virtual envs
+.venv/
+venv/
+env/
+ENV/
+
+# Environment files
+**/.env
+!**/.env.example
+
+# Backend artifacts
+backend/storage/index/**
+backend/storage/cache/**
+backend/data/raw/**
+
+# Frontend artifacts
+frontend/.streamlit/
+
+# Logs
+*.log
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/

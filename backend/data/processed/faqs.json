@@ -1,0 +1,641 @@
+[
+  {
+    "id": "7ab3449213678dcb36c0a7c2b194e08764e0a0f56e82b1090a6c4197c936d21a",
+    "question": "Présentation de l’application Workways",
+    "answer": "L’ application Workways , accessible via app.workways.com , est votre compagnon au quotidien en vous permettant d’accéder aux différents services de Workways. Fonctionnalités principales : Gérez votre profil et votre identité pour garantir la sécurité de tous. Contrôlez vos moyens d’accès aux bâtiments (cartes, badges, codes PIN de réunion, etc.). Réservez des salles de réunion ou utilisez-les en accès à la minute Gérez vos droits d’utilisation des bornes de recharge Pour qui ? L’application est réservée aux membres de Workways, notamment : Employés des entreprises hébergées chez Workways Collaborateurs des sociétés louant des bureaux Coworkers enregistrés Utilisateurs de Daypass (accès à la journée) Vous recevrez un lien sur votre email permettant de choisir votre mot de passe. Si vous n’avez pas reçu le lien, vérifiez votre dossier de spam et assurez vous que votre responsable a communiqué la bonne adresse email.",
+    "url": "https://support.workways.com/docs/presentation/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:30.696141Z"
+  },
+  {
+    "id": "f2b49b95e590e3df9d9396afa14796d7172b421353198579f31e1e6d2d990cea",
+    "question": "Se connecter à l’application Workways",
+    "answer": "Connectez-vous sur app.workways.com Lors de votre inscription, vous avez reçu un e-mail – utilisez cette même adresse e-mail pour vous connecter à l’application. Vous pouvez vous connecter avec le mot de passe que vous avez choisi lors de votre inscription. Si vous ne vous en souvenez plus, cliquer sur le bouton Se connecter sans mot de passe . Cliquez sur Recevoir le lien . Un email sera envoyé sur l’adresse spécifiée et vous pourrez vous connecter en cliquant dessus depuis votre client de messagerie. Ce lien n’est valide que pour une seule connexion. Si vous avez une erreur lors de la connexion, c’est que le lien a déjà été utilisé. Entrez à nouveau votre email pour recevoir un nouveau lien.",
+    "url": "https://support.workways.com/docs/se-connecter/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:30.726497Z"
+  },
+  {
+    "id": "613fac8e8c4005b4cf3b244fa361d63d92ef555023a6893e970d3c8f47e0cd98",
+    "question": "Valider votre adresse email",
+    "answer": "1. Validation initiale de votre adresse email Pour que vous puissiez recevoir les notifications et informations importantes de l’application Workways (par exemple, les notifications sur les réservations), vous devez valider votre adresse email. Pour ce faire, cliquez simplement sur le bouton Valider mon adresse dans l’email qui vous a été envoyé depuis l’application Workways. Exemple: Une fois que vous aurez cliqué sur ce bouton, vous verrez un message confirmant que votre adresse email est validée, et vous serez automatiquement connecté(e) à l’application Workways. 2. Si vous n’avez pas reçu l’email ou l’avez supprimé Vous pouvez relancer la validation directement depuis l’application Workways en suivant ces étapes : Accédez à votre profil dans l’application Workways. Dans la section Email et mot de passe , si votre adresse email n’a pas encore été vérifiée, vous verrez une icône en forme d’enveloppe. Icône : L’enveloppe est grise . Message affiché : Email non vérifié, le membre ne peut pas communiquer par mail . Icône : L’enveloppe est grise . Message affiché : Email non vérifié, le membre ne peut pas communiquer par mail . Cliquez sur l’icône enveloppe pour que l’application vous renvoie l’email de validation. Changement d’icône : l’enveloppe devient orange . Message affiché : La vérification d’email sera faite après l’enregistrement. Changement d’icône : l’enveloppe devient orange . Message affiché : La vérification d’email sera faite après l’enregistrement. Cliquez sur le bouton Enregistrer pour confirmer l’action. Changement d’icône : l’enveloppe devient vert clair . Message affiché : Demande de vérification envoyée, attente de la réponse du membre Changement d’icône : l’enveloppe devient vert clair . Message affiché : Demande de vérification envoyée, attente de la réponse du membre Ensuite, suivez les instructions indiquées dans le point 1 pour valider votre adresse. Une fois validée, l’icône de l’email devient vert foncé . Message final : Email vérifié, le membre peut communiquer par mail Une fois validée, l’icône de l’email devient vert foncé . Message final : Email vérifié, le membre peut communiquer par mail",
+    "url": "https://support.workways.com/docs/valider-votre-adresse-email/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:30.759033Z"
+  },
+  {
+    "id": "3740309e42e696c08a39d46827a962d50bdea8683b634065a4eccd75d88cd53b",
+    "question": "Enregistrer votre carte d’accès",
+    "answer": "* Pour les membres enregistrant leur propre carte d’accès Vous recevrez un e-mail avec un lien pour créer votre mot de passe et vous connecter à app.workways.com . Si vous n’avez pas reçu le lien, veuillez vérifier votre dossier de courriers indésirables et confirmer avec votre responsable que votre adresse e-mail a été saisie correctement . Cliquez sur S’enregistrer et se connecter . Ensuite, vous serez guidé à travers les étapes pour enregistrer votre carte d’accès . 1. Cliquez sur Je confirme avoir une carte en ma possession . 2. Si vous avez une carte avec un code QR , utilisez un smartphone avec appareil photo pour scanner le code. Nota: Le code PIN ci-dessus n’est qu’un exemple – vous recevrez un code PIN dédié à votre bureau. 3. Si votre carte ne comporte pas de code QR ou si vous ne pouvez pas vous connecter depuis un smartphone, vous pouvez enregistrer la carte sur le contrôleur d’accès qui se trouve à l’entrée du bâtiment. Cliquez sur Tapez le code PIN *7365 à la porte. Votre code PIN se compose d’un astérisque (*) suivi de 4 chiffres. Nota: Le code PIN ci-dessus n’est qu’un exemple – vous recevrez un code PIN dédié à votre carte d’accès. Nota: Le code PIN ci-dessus n’est qu’un exemple – vous recevrez un code PIN dédié à votre bureau. 4. Vous pouvez également consulter l’email que vous avez reçu avec les instructions pour enregistrer votre carte. Vous recevrez cet email si vous cliquez sur le bouton Fermer à l’étape 1 ou à l’étape 2 – c’est-à-dire si vous interrompez le processus d’enregistrement de votre carte d’accès. Si vous cliquez sur le lien Enregistrer ma carte (surligné en vert ci-dessus) ou que vous vous connectez à l’application Workways , vous serez guidé à travers les étapes 1 à 3 pour compléter l’enregistrement de votre carte d’accès. 5. Enfin, vous pouvez également cliquer sur Enregistrer ma carte d’accès dans l’application Workways, dans le menu du profil utilisateur. Ensuite, suivez les instructions du point 1 ci-dessus. * Pour les administrateurs gérant l’accès pour d’autres Pour créer une carte d’accès pour un nouveau membre, celui-ci doit d’abord être ajouté à l’application Workways. Connectez-vous sur app.workways.com . Cliquez sur le menu W et sélectionnez Membres . Cliquez sur Inviter Membre dans le menu d’actions. Veuillez consulter ce guide expliquant comment inviter un membre et l’ajouter à l’application Workways. Une fois que le membre a été ajouté à l’application Workways, vous pouvez créer une carte d’accès pour lui. Pour cela, dans l’ application Workways , trouvez le membre en question et cliquez sur Enregistrer une carte d’accès pour… dans le menu d’actions, puis suivez les étapes affichées à l’écran.",
+    "url": "https://support.workways.com/docs/enregistrer-votre-carte-dacces/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:30.793266Z"
+  },
+  {
+    "id": "11d821e4041b0df0ed269e2a7aadb7acdd641fb0a1a6c3e9433f94966dfc77a8",
+    "question": "Changer votre carte d’accès",
+    "answer": "Si une carte d’accès est perdue ou endommagée, elle doit être remplacée. Pour ce faire, connectez-vous sur app.workways.com , allez dans le menu de votre profil Hello et sélectionnez Changer ma carte d’accès . Un message vous indiquera que vous avez déjà une carte – ne la remplacez que si elle est perdue ou ne fonctionne pas, car en sélectionnant Je confirme vouloir changer ma carte , elle sera définitivement supprimée. Nota: Le code PIN ci-dessus est uniquement un exemple – vous recevrez un code PIN dédié à votre bureau. Le message suivant apparaîtra pour confirmer l’action. Appuyez sur OK pour passer à l’étape suivante. Retournez dans le menu du profil utilisateur, sélectionnez Enregistrer ma carte d’accès et suivez les instructions fournies ici . Connectez-vous sur app.workways.com . Cliquez sur le menu W et sélectionnez Membres . Trouvez le membre que vous souhaitez modifier et cliquez sur Changer la carte d’accès de… dans le menu d’actions. Ensuite, complétez le processus de création de la carte d’accès en suivant les instructions fournies ici . Votre carte d’accès peut vous permettre de démarrer la recharge. Si c’est le cas, veuillez notifier appsupport@workways.com que votre carte a été mise à jour, afin qu’elle puisse être validée pour une utilisation aux stations de recharge pour véhicules électriques.",
+    "url": "https://support.workways.com/docs/changer-votre-carte-dacces/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:30.825647Z"
+  },
+  {
+    "id": "175cd2a1a31ccf01bada0381ac77a412811aa15c2fcd173d7466351152d15162",
+    "question": "Accéder au bâtiment et au bureau",
+    "answer": "Les horaires d’accès sont définies selon les paramètres configurés dans l’application Workways , sous les paramètres de la société, dans la section Gérer les accès .",
+    "url": "https://support.workways.com/docs/acceder-au-batiment-et-au-bureau/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:30.878342Z"
+  },
+  {
+    "id": "4adff1123ded0f7dac1f999c3b9506ad61eb68064f3b2dc64afaa0e854854ca0",
+    "question": "Puis-je avoir plusieurs cartes d’accès ?",
+    "answer": "Chaque membre ne peut posséder qu’une seule carte d’accès. Cette mesure est mise en place pour renforcer la sécurité et prévenir toute utilisation inappropriée ou involontaire. Votre carte d’accès est strictement personnelle et ne doit en aucun cas être prêtée. En cas de perte ou de dysfonctionnement, veuillez la remplacer en suivant la procédure expliquée ici .",
+    "url": "https://support.workways.com/docs/puis-je-avoir-plusieurs-cartes-dacces/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:30.914958Z"
+  },
+  {
+    "id": "b666dfce973771cb0b746abcf6a8830522df6f7d2203dc46083803dac608cbdc",
+    "question": "Accueillir des visiteurs",
+    "answer": "Les visiteurs peuvent vous appeler depuis l’interphone ou directement par téléphone. Vous devez les accueillir à l’entrée et les accompagner à l’intérieur. Ne disposant pas de carte d’accès personnelle (également requise pour accéder à votre bureau), ils doivent toujours être accompagnés lorsqu’ils se déplacent dans le bâtiment ou lorsqu’ils le quittent. Vous êtes responsable de leur comportement et ils doivent respecter le calme et l’organisation de l’espace. Si vous recevez régulièrement le même visiteur ou l’accueillez pour une courte période, vous devez l’enregistrer sur la liste des membres de votre société en tant que Day pass .",
+    "url": "https://support.workways.com/docs/accueillir-des-visiteurs/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:30.944410Z"
+  },
+  {
+    "id": "cd2313203e4789df59fb40821cd2bc88bb970658efb8b2e98e48c4acdc0c9577",
+    "question": "Puis-je partager les codes ou ma carte d’accès ?",
+    "answer": "Il est interdit de partager votre code ou carte d’accès afin de garantir la sécurité des lieux et des équipements.",
+    "url": "https://support.workways.com/docs/partager-codes-carte-dacces/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:30.973682Z"
+  },
+  {
+    "id": "305916225e43e42f5f7fba18a696807a895e7027879436f2a2c9003e7f78683d",
+    "question": "Que dois-je faire si j’oublie ma carte d’accès ?",
+    "answer": "Pour des raisons de sécurité, tous les clients doivent porter leur carte d’accès en permanence. La carte d’accès est nécessaire pour entrer dans le bâtiment principal et pour accéder à votre bureau, y compris en dehors des heures normales. Si vous oubliez votre carte d’accès : 1. Pendant les heures de bureau : Utilisez l’interphone pour contacter l’équipe Workways / la réception. Si un membre de l’équipe Workways / réception est disponible, il pourra vous ouvrir la porte. 2. En dehors des heures de bureau : Si aucun membre de l’équipe Workways / réception n’est disponible, vous devrez soit : Retourner chez vous pour récupérer votre carte d’accès, soit Demander à un collègue disposant de sa carte d’accès de vous aider à entrer. Retourner chez vous pour récupérer votre carte d’accès, soit Demander à un collègue disposant de sa carte d’accès de vous aider à entrer. Cette procédure garantit la sécurité du bâtiment et de tous les membres. Vous pouvez retrouver le code PIN de votre bureau dans l’application Workways ( app.workways.com ). Allez dans le menu Action et cliquez sur Modifier Société ou Voir Société (si le membre n’a pas le rôle d’administrateur de la société). Cliquez sur les Paramètres administrateur Workways en faisant défiler la page, où le code PIN pour les bureaux loués par la société est affiché. Nota: Le code PIN ci‑dessus n’est donné qu’à titre d’exempl e. Lors de la saisie du code PIN sur la serrure digitale, veuillez appuyer ensuite sur la touche dièse (#).",
+    "url": "https://support.workways.com/docs/oublier-ma-carte-dacces/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.005180Z"
+  },
+  {
+    "id": "ee07c7e503cb0294804e0f691f3fac186c0172e9058dcec689f219976180170f",
+    "question": "Recevoir les courriers (Belgique)",
+    "answer": "Le facteur distribue le courrier dans les boîtes aux lettres attribuées à chaque société. Pour garantir la bonne réception de vos courriers: Indiquez le nom de votre société (tel qu’il apparaît dans votre contrat) dans l’adresse – sans mentionner Workways. Sans le nom de votre société, le courrier sera déposé dans une boîte commune.",
+    "url": "https://support.workways.com/docs/recevoir-les-courriers/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.055673Z"
+  },
+  {
+    "id": "7ea56e9dbe1dcfc22905a6fc701e3ede51a34a4916574ad7ef8d7c4b0740a0b7",
+    "question": "Recevoir les colis (Belgique)",
+    "answer": "Pour assurer la bonne livraison de vos colis, vous devrez indiquer dans votre adresse de livraison les éléments suivants : Le nom de votre société (sans mentionner Workways). Votre Delivery PIN dans l’adresse de livraison. Qu’est-ce que votre Delivery PIN ? Votre Delivery PIN est un code spécifique à votre société qui permet aux livreurs d’accéder au bâtiment et qui vous avertit de la réception d’un colis. Cliquez sur le lien suivant pour obtenir plus d’informations sur le Delivery PIN . Où trouver votre Delivery PIN ? Le Delivery PIN de votre société est disponible dans l’application Workways, accessible via le lien app.workways.com , dans le menu de votre profil. Exemples d’adresses de livraison : ✅ Format recommandé (si deux lignes d’adresse sont disponibles) Darnwell 8 Excelsiorlaan Delivery PIN : 12345 1930 Zaventem ✅ Format alternatif (si une seule ligne d’adresse est disponible) Darnwell 8 Excelsiorlaan (PIN : 12345) 1930 Zaventem ✅ S’il n’est pas possible, sur le site de votre fournisseur, d’ajouter le Delivery PIN dans l’adresse de livraison, merci de le placer à la suite du nom de votre société. Darnwell (PIN : 12345) 8 Excelsiorlaan 1930 Zaventem Nota: Dès qu’un livreur utilise le Delivery PIN dédié à votre société pour entrer dans le bâtiment, vous recevrez un e-mail vous informant de l’arrivée d’un colis. Colis volumineux Si vous avez reçu un colis volumineux, vous avez 48 heures pour le récupérer. Sinon, il sera transféré dans votre bureau à vos frais.",
+    "url": "https://support.workways.com/docs/recevoir-les-colis-belgique/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.093512Z"
+  },
+  {
+    "id": "f76e86acdd8e1f2cab9d2067e43dc5d158850bf97fc6b5139373d99f87deb82f",
+    "question": "Code de livraison (delivery code / PIN)",
+    "answer": "À quoi sert un delivery code ? Il permet uniquement aux livreurs mandatés (transporteurs, coursiers, services postaux) d’ouvrir la porte principale afin d’accéder à la zone de dépôt des colis prévue à cet effet. Qui peut utiliser ce code ? Uniquement des livreurs. Les visiteurs ne peuvent pas utiliser un delivery code. Comment un visiteur entre-t-il dans un bâtiment Workways ? Trois options uniquement : Code de salle de réunion valable le jour de la réservation (communiqué par la société cliente). Accueil par un membre de la société cliente qui vient ouvrir et accompagner le visiteur. Achat d’un day pass par la société cliente (un code d’entrée nominatif et valable une journée est alors généré). Contrôles de sécurité lors de l’usage d’un delivery code Tout accès ouvert via un delivery code fait l’objet d’un suivi vidéo par Workways Spaces Control pour vérifier que la personne est bien un livreur et qu’elle ne dépasse pas la zone colis. Des journaux d’accès sont conservés pour assurer la sécurité et l’audit en cas d’incident. Que se passe-t-il si un visiteur utilise un delivery code ? C’est un usage non conforme. Workways pourra : facturer un daypass au tarif en vigueur, suspendre ou régénérer le delivery code concerné, alerter la société cliente et, en cas de récidive, appliquer des mesures de sécurité supplémentaires. Workways peut-il intervenir si le delivery code n’a pas été utilisé ? Workways n’intervient pas dans l’analyse d’un problème de livraison quand le delivery code n’a pas été utilisé. Que faire dans ce cas ? Vous devez rechercher le colis par vos propres moyens, puisque la procédure n’a pas été suivie. Après avoir contacté l’expéditeur et la société de livraison, nous vous recommandons de déposer une plainte à la police pour documenter l’incident. Si Workways doit effectuer des recherches supplémentaires suite à une procédure non respectée, des frais seront facturés. Bonnes pratiques Ne partagez jamais le delivery code avec des visiteurs. En cas de soupçon de fuite du code, demandez sa régénération immédiatement via Spaces Control en utilisant le widget de chat dans l’application Workways .",
+    "url": "https://support.workways.com/docs/delivery-pin/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.125067Z"
+  },
+  {
+    "id": "9ba8f9060e6e170dc0ae72b1c07f89e51ac459af95d9f4f13cb7a24328786df5",
+    "question": "Stationnement des voitures – politique et règles",
+    "answer": "Le stationnement est-il disponible ? Oui. Des parkings sont mis à disposition des résidents conformément à la politique de stationnement Workways, sous réserve des conditions ci-dessous. Qui peut utiliser le parking ? Les parkings Workways sont réservés exclusivement aux véhicules dont le propriétaire est présent dans les locaux. Cela garantit une utilisation équitable et la disponibilité des places pour tous. Puis-je laisser mon véhicule au parking lorsque je ne suis pas sur place ? Non. Le stationnement est autorisé uniquement pendant la présence du propriétaire dans les locaux. Laisser un véhicule sur le parking en dehors de cette période n’est pas permis. Workways se réserve le droit de prendre les mesures nécessaires pour faire respecter cette règle. Puis-je stationner la nuit ? Le stationnement de nuit n’est pas autorisé. Si un véhicule est laissé sur le parking pendant la nuit, des frais s’appliqueront. Comment utiliser les bornes de recharge pour véhicules électriques ? Les emplacements équipés de bornes de recharge ne sont pas des places de stationnement classiques. Ils ne sont disponibles que pendant la durée de la recharge. Une fois la recharge terminée, merci de déplacer votre véhicule vers une place ordinaire. Sinon, des frais supplémentaires s’appliqueront. Pour plus d’informations, veuillez consulter le guide en cliquant ici . Pourquoi cette politique est-elle mise en place ? Ces règles visent à garantir la disponibilité des places et une gestion efficace de l’espace de stationnement pour tous les occupants.",
+    "url": "https://support.workways.com/docs/stationnement-des-voitures/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.155445Z"
+  },
+  {
+    "id": "7daba80dbf27965eb650a545d1863d3f59160659d20723955db9cf19ce2c5f24",
+    "question": "Stationnement des vélos",
+    "answer": "Veuillez noter qu’il n’est pas autorisé de stationner les vélos à l’intérieur du bâtiment, y compris dans les espaces partagés ou les bureaux. Vous pouvez utiliser les supports à vélos situés à l’extérieur du bâtiment, sous réserve de disponibilité. Si le local à vélos sécurisé est accessible, vous êtes également invité à l’utiliser. Pour les conditions d’accès et les tarifs, merci de contacter l’équipe commerciale Workways.",
+    "url": "https://support.workways.com/docs/stationnement-des-velos/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.184699Z"
+  },
+  {
+    "id": "7e27f292372ed343cc55094a89eb9ee86ce6fb79129b5d84287e57276221cccd",
+    "question": "Service de bornes de recharge des véhicules",
+    "answer": "Les bornes de recharge sont utilisables sous les conditions suivantes: Votre entreprise doit accepter de payer les frais liés aux recharges (c’est elle qui est facturée mensuellement) Vous devez donc vous rapprocher de votre responsable qui vous indiquera les conditions d’utilisation propres à votre entreprise . Quand des bornes sont disponibles sur votre site, vous avez accès à la configuration générale pour votre société. Quand vous mettez les bornes à disposition de vos collaborateurs, Workways vous facture directement. Selon la configuration choisie, vous pouvez recevoir : Une facture détaillée (consommation par collaborateur), Une facture globale (pour l’ensemble des utilisateurs). 1. Dans le contexte Membres du menu W , sélectionnez Modifier Société. 2. Dans la zone de saisie à droite, sélectionnez la zone Accès aux bornes de recharge Wallbox . Sélectionnez un des modes d’inscription: Non autorisé : Votre société ne souhaite pas donner accès au bornes de recharge Compte unique pour la société : Un seul compte Wallbox partagé par la société. Donnez accès à ce compte aux utilisateurs. Une seule facture non détaillée sera envoyée. Le détail de la création de compte Walbox et de l’invitation faite par Workways est décrite dans la suite de ce document. Le détail de la création de compte Walbox et de l’invitation faite par Workways est décrite dans la suite de ce document. Inscription par un administrateur : les utilisateurs ont chacun leur compte Wallbox, il peuvent aussi démarrer une session de recharge avec leur carte d’accès Workways. Une facture détaillée par utilisateur est envoyée, la société prend directement en charge les frais de recharge. Inscription par les utilisateurs : Même conditions que l’option précédente, mais les utilisateurs peuvent s’inscrire eux-même au service. Pour rendre ce service, Workways a choisi les bornes de la marque Wallbox. Vous devez avoir un compte Wallbox : Soit partagé par toute l’entreprise Soit individuel (pour avoir la facturation détaillée) Vous devez créer votre compte individuel Wallbox ou vous pouvez utiliser un compte déjà existant quand vous disposez déjà d’une borne de cette marque à votre domicile. Votre responsable vous communique une adresse mail et un mot de passe. Vous devez télécharger l’application Wallbox sur votre téléphone Android ou iOS. Pour démarrer une session de charge, connectez-vous à l’application Wallbox sur votre mobile, choisissez la borne, connectez votre véhicule et commencez la recharge. Quand le compte est partagé, il n’est pas possible d’utiliser votre badge d’accès Workways pour lancer un chargement. Selon la configuration décidée par votre entreprise vous pourrez vous inscrire à ce service directement depuis l’Application Workways ou demander à votre responsable de le faire (en lui donnant le mail utilisé pour votre application Wallbox). De préférence le même que celui de l’application Workways. Il peut être différent quand le mail de l’application Workways n’est pas réel (vous ne pouvez pas y accéder avec un client de messagerie) ou que vous avez déjà un compte Wallbox. Vous ne pouvez pas utiliser le même mail pour plusieurs personnes. La première personne inscrite pourra utiliser sa carte d’accès et, s’il partage ses informations de connexion, les autres peuvent utiliser l’application Wallbox. Toutes les consommations seront attribuées à cette personne. Vous ne pouvez pas utiliser l’email de connexion Workways d’une autre personne, uniquement le votre. L’application Wallbox est disponible sur iOS et Android. Dans l’application Wallbox on vous demandera de créer un site et de déclarer une borne. Cela n’est nécessaire que si vous disposez d’une borne à domicile. Si vous chargez uniquement sur les bornes mises à disposition par Workways, vous pouvez ignorer cette étape . La demande d’inscription se fait depuis votre profil dans l’application Workways. 1. Cliquez sur Je confirme que je dispose d’un compte Wallbox 2. Indiquez l’adresse du compte utilisé par l’application Wallbox , par défaut le même que celui utilisé par l’application Workways. Il peut être différent (voir le paragraphe Quel mail utiliser ? ) 3. Puis, cliquez sur Demander une invitation Wallbox 4. Cliquez sur Enregistrer pour demander l’invitation. Surveillez votre boîte mail. Vous allez recevoir une invitation de la part de Wallbox. Cliquez sur Accept invitation . Dans l’application Wallbox, accepter l’accès aux chargeurs supplémentaires. Vous avez maintenant accès aux bornes de recharge de Workways. Si vous avez un compte Wallbox individuel vous pouvez utiliser votre carte d’accès aux bâtiments Workways pour démarrer vos sessions de recharge.",
+    "url": "https://support.workways.com/docs/service-de-bornes-de-recharge-des-vehicules/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.221483Z"
+  },
+  {
+    "id": "2b9aa7ace43fd227df4e8012318bd88e7f8c5d0033fb3d6bfc242edf9d9eb0be",
+    "question": "Facturation de la recharge des bornes électriques",
+    "answer": "Le tarif au 1er juillet 2025 est de 0,35 € HT/kWh + 0,05 € HT/min. Nota : La facturation à la minute s’applique tant que le véhicule occupe une place de recharge.",
+    "url": "https://support.workways.com/docs/facturation-de-la-recharge-des-bornes-electriques/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.251389Z"
+  },
+  {
+    "id": "836f662a43a1fc79027bb7f2d7e92580ed9f1e3c9672ea9e7aa9526a8a2aafbb",
+    "question": "Que faire si la recharge de mon véhicule ne fonctionne pas ?",
+    "answer": "Si vous n’arrivez pas à charger votre voiture électrique, effectuez les vérifications suivantes. 1. Vérifications générales Câble de recharge Connexion : Vérifiez que le câble est bien branché des deux côtés. Débranchez-le puis rebranchez-le fermement. État : Examinez le câble pour détecter d’éventuels dommages (coupures, fils dénudés, embouts tordus). Propreté : Les connecteurs et le port de charge doivent être propres et secs. Connexion : Vérifiez que le câble est bien branché des deux côtés. Débranchez-le puis rebranchez-le fermement. État : Examinez le câble pour détecter d’éventuels dommages (coupures, fils dénudés, embouts tordus). Propreté : Les connecteurs et le port de charge doivent être propres et secs. Carte d’accès (carte de recharge) Activation : Assurez-vous que votre carte d’accès Workways est bien activée et valide. Enregistrement d’une nouvelle carte : Si vous avez récemment changé de carte, vous devrez recommencer la procédure d’inscription. Vous pouvez trouver cette procédure ici . Lecture : Maintenez la carte sur la borne quelques secondes pour assurer une bonne détection. Test général : Si vous avez un doute sur le fonctionnement de la carte, testez-la sur la porte d’entrée du bâtiment Workways. Cela permet de vérifier qu’elle est bien reconnue. Carte reconnue mais charge inactive ? Pensez à vérifier l’état de votre câble. Un câble endommagé ou défectueux peut empêcher la charge, même si la carte est acceptée par la borne. Activation : Assurez-vous que votre carte d’accès Workways est bien activée et valide. Enregistrement d’une nouvelle carte : Si vous avez récemment changé de carte, vous devrez recommencer la procédure d’inscription. Vous pouvez trouver cette procédure ici . Lecture : Maintenez la carte sur la borne quelques secondes pour assurer une bonne détection. Test général : Si vous avez un doute sur le fonctionnement de la carte, testez-la sur la porte d’entrée du bâtiment Workways. Cela permet de vérifier qu’elle est bien reconnue. Carte reconnue mais charge inactive ? Pensez à vérifier l’état de votre câble. Un câble endommagé ou défectueux peut empêcher la charge, même si la carte est acceptée par la borne. Borne de recharge Voyants lumineux : Vert fixe : Borne prête. Bleu : Charge en cours ou en attente d’autorisation. Rouge : Défaut ou erreur. Éteint : Borne hors tension ou en veille. Voyants lumineux : Vert fixe : Borne prête. Bleu : Charge en cours ou en attente d’autorisation. Rouge : Défaut ou erreur. Éteint : Borne hors tension ou en veille. Vert fixe : Borne prête. Bleu : Charge en cours ou en attente d’autorisation. Rouge : Défaut ou erreur. Éteint : Borne hors tension ou en veille. Véhicule Verrouillage : Certains véhicules nécessitent que les portes soient verrouillées pour lancer la charge. Arrêt d’urgence : Vérifiez qu’aucun bouton d’arrêt d’urgence n’est enclenché, ni sur la borne ni sur le véhicule. Mises à jour logicielles : Assurez-vous que le logiciel du véhicule est à jour. Une réinitialisation peut parfois résoudre le problème. Messages d’erreur : Consultez l’écran du véhicule pour toute alerte ou anomalie. Système de batterie : Un défaut du système de gestion de batterie (BMS) peut nécessiter un diagnostic professionnel. Verrouillage : Certains véhicules nécessitent que les portes soient verrouillées pour lancer la charge. Arrêt d’urgence : Vérifiez qu’aucun bouton d’arrêt d’urgence n’est enclenché, ni sur la borne ni sur le véhicule. Mises à jour logicielles : Assurez-vous que le logiciel du véhicule est à jour. Une réinitialisation peut parfois résoudre le problème. Messages d’erreur : Consultez l’écran du véhicule pour toute alerte ou anomalie. Système de batterie : Un défaut du système de gestion de batterie (BMS) peut nécessiter un diagnostic professionnel. Tester un autre équipement Essayez de charger votre véhicule avec une autre borne ou un autre câble pour identifier l’origine du problème. Essayez de charger votre véhicule avec une autre borne ou un autre câble pour identifier l’origine du problème. 2. Vérifications spécifiques aux bornes Wallbox (procédure Workways) Si vous utilisez une borne Wallbox via Workways, voici les éléments à vérifier en complément : Invitation et compte utilisateur Avez-vous suivi la procédure de demande d’invitation sur le lien Workways ? Avez-vous bien reçu et accepté l’invitation à rejoindre le groupe Workways ? Votre compte Wallbox est-il correctement relié à ce groupe ? Vérifiez vos emails (y compris les spams). Application Wallbox Êtes-vous connecté avec le bon compte ? La borne apparaît-elle bien dans votre application ? Quel est le statut affiché ? (“Disponible”, “Connectée”, “Occupée”, “Erreur”, etc.) Avez-vous suivi la procédure correcte pour démarrer la charge via l’application ? L’application affiche-t-elle un message d’erreur ? Si oui, notez-le. Votre application est-elle à jour sur votre smartphone ? 3. Si le problème n’est pas résolu après ces vérifications, contactez le support Workways via le chat dans l’application.",
+    "url": "https://support.workways.com/docs/que-faire-si-la-recharge-de-mon-vehicule-ne-fonctionne-pas/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.291442Z"
+  },
+  {
+    "id": "b687797b6942a6943b158c984bcc0739f536ac42ae07859409c8651f2129ab61",
+    "question": "Nouvelle carte d’accès – réinitialiser votre compte Wallbox",
+    "answer": "Si vous avez récemment changé de carte d’access, vous devrez réinitialiser votre compte Wallbox. 1. La demande de réinitialisation de votre compte Wallbox se fait depuis votre profil dans l’application Workways, sous Accès aux bornes de recharge (Wallbox) . 2. Choisissez Demander la révocation de l’invitation et cliquez sur Enregistrer . 3. Ensuite, il faut que vous redemandiez l’invitation en suivant le processus expliqué ici .",
+    "url": "https://support.workways.com/docs/nouvelle-carte-dacces-reinitialiser-votre-compte-wallbox/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.321389Z"
+  },
+  {
+    "id": "5e1b517d2369aca3ea85ec3c0e50b2120270630ff60030bba49c599f20589ef6",
+    "question": "Réservation de plusieurs salles de réunion",
+    "answer": "Puis-je réserver plusieurs salles en même temps dans l’application Workways ? Non, il n’est pas possible de réserver plusieurs salles dans une seule réservation. Chaque salle doit être réservée séparément. Puis-je voir plusieurs salles dans l’application ? Oui, vous pouvez consulter plusieurs salles à la fois pour vérifier leur disponibilité et leurs caractéristiques. Veillez simplement à indiquer le bon nombre de participants : l’application affichera uniquement les salles capables d’accueillir ce nombre. Pourquoi ne puis-je pas réserver plusieurs salles simultanément ? Chaque salle peut avoir une configuration différente et nécessiter une gestion distincte. De plus, la facturation peut varier d’une salle à l’autre, d’où la nécessité de réserver chaque salle individuellement. Comment réserver plusieurs salles si j’en ai besoin ? Il vous suffit de faire une réservation distincte pour chaque salle nécessaire.",
+    "url": "https://support.workways.com/docs/reservation-de-plusieurs-salles-de-reunion/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.351328Z"
+  },
+  {
+    "id": "310e047df36b0c9761e324bb4e0e3a4cb3e4b1e1efb97d539d9fe98ca75f5a77",
+    "question": "Réservation d’une salle de réunion – instructions d’accès",
+    "answer": "Utilisez votre méthode d’accès habituelle ou le code PIN fourni dans votre email de confirmation de réservation, puis appuyez sur le bouton Confirm . Utilisez le même code PIN que celui indiqué dans votre email de confirmation de réservation, suivi de la touche dièse ( # ). Le code PIN se trouve dans votre email de confirmation de réservation. Vous pouvez également le trouver dans l’ application Workways , sous le menu d’action en cliquant sur Modifier Société ou Voir Société (si vous n’avez pas le rôle d’administrateur de votre société). Ensuite, référez-vous aux Paramètres administrateur Workways et au code PIN pour les réunions .",
+    "url": "https://support.workways.com/docs/reservation-dune-salle-de-reunion-instructions-dacces/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.381876Z"
+  },
+  {
+    "id": "3fcc5464b2180da486e11ddc5c15e5aed643094cbd0a0f9b208b3f08977b3c20",
+    "question": "Règles de facturation en cas d’annulation de réunion",
+    "answer": "⏰ Vous ne pouvez pas annuler une réunion déjà en cours ou terminée. ✅ Annulation le jour quand la réservation a été effectuée ou plus de 2 jours avant la réunion → Gratuit ⚖️ Annulation pendant les 2 jours qui précèdent la réunion → 50 % ❌ Annulation le jour même → 100 %",
+    "url": "https://support.workways.com/docs/regles-de-facturation-en-cas-dannulation-de-reunion/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.411657Z"
+  },
+  {
+    "id": "13396967be6ff44b5d67362ef9c0ef1f94a44b62d8fbd68387f0495db3c26ace",
+    "question": "Règles d’utilisation des salles de réunion",
+    "answer": "Afin que chacun puisse profiter d’un environnement de travail agréable et fonctionnel, nous vous remercions de respecter les consignes suivantes : 1. Laisser la salle propre et rangée : Aucun objet ne doit rester sur la table (gobelets, tasses, papiers ou effets personnels). Les chaises doivent être remises en place. 2. Gestion de la vaisselle : Si vous avez utilisé des verres ou des tasses provenant de la cuisine, merci de les déposer dans l’espace prévu pour la vaisselle sale, situé près de la cuisine. 3. Objets oubliés : Si vous trouvez un objet laissé par un utilisateur précédent, merci de le jeter s’il s’agit de déchets ou d’en informer l’équipe Workways si cela semble important. 4. Respect des utilisateurs suivants : Assurez-vous que la salle soit prête à accueillir le prochain rendez-vous. Des frais fixes de nettoyage peuvent être appliqués si la salle nécessite une remise en état particulière.",
+    "url": "https://support.workways.com/docs/salles-de-reunion-regles-dusage/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.441211Z"
+  },
+  {
+    "id": "3f656cd9dd04a9d00d1ad7fc843626cc2aeb50b1c0d6a00d147d42db73a4745a",
+    "question": "Utilisation des espaces partagés (Coffee Lounge, Coffee Corner & Cuisine)",
+    "answer": "Pour le confort de tous, la nourriture n’est pas autorisée dans : les salles de réunion, l’espace Second Home, les playrooms, la salle de sport, l’accueil. Vous êtes les bienvenus pour manger dans : la cuisine, le Coffee Lounge, le Coffee Corner le restaurant. Petit rappel pratique : Pensez à nettoyer et ranger votre vaisselle après usage. Les frigos sont vidés chaque vendredi, donc évitez de laisser des aliments d’un jour à l’autre. Qui peut utiliser le Coffee Lounge, le Coffee Corner et la cuisine ? Membres Workways : accès libre à tous ces espaces, en toute autonomie. Utilisateurs de salles de réunion non membres : vous pouvez profiter du Coffee Corner, du Tea Bar et du Water Bar pendant votre venue.",
+    "url": "https://support.workways.com/docs/espaces-partages/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.471814Z"
+  },
+  {
+    "id": "46df484cccec95f1cfed36605772263c4e368a8690f34c796e4755058d450064",
+    "question": "Travailler dans le Coffee Lounge",
+    "answer": "Vous pouvez travailler dans le Coffee Lounge, mais sachez que cet espace est également destiné aux repas, jeux et échanges, ce qui peut générer des nuisances sonores.",
+    "url": "https://support.workways.com/docs/travailler-dans-le-coffee-lounge/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.507280Z"
+  },
+  {
+    "id": "850d8037ce82feda983f5b71cb4489a0036f59fdc60e6e9af6e95ceb26dece48",
+    "question": "Coffee Corner (Belgique – Zaventem bâtiment 44)",
+    "answer": "Le Coffee Corner du bâtiment 44 est mis à disposition des clients pour préparer des boissons, mais ce n’est pas une cuisine. Il n’y a pas de personnel de ménage dédiée à cet espace, seul l’approvisionnement en consommables est assuré. Aucune vaisselle n’est disponible et il est pas autorisé d’emprunter de la vaisselle du bâtiment 8 pour l’utiliser au 44. Les résidents peuvent apporter leurs propres affaires, dont ils restent responsables. Il est important de ne pas laisser de vaisselle sale dans l’évier ou sur les plans de travail.",
+    "url": "https://support.workways.com/docs/coffee-corner-batiment-44/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.574806Z"
+  },
+  {
+    "id": "de1cc0993797eb40805d7f8268d2a40946c363fdcbc892d890e980c8596cd209",
+    "question": "Espace “Second Home”",
+    "answer": "“Second Home” (si disponible dans votre site) est un espace de coworking privé, réservé exclusivement aux résidents et aux clients de Workways. Utilisation de l’espace : Il est destiné au travail individuel ou en petit groupe, dans le calme et le respect de chacun. Phone booths : Des cabines téléphoniques sont à disposition pour passer vos appels. Salle de réunion : Une salle fermée est accessible uniquement sur réservation via l’application Workways. Elle peut également être utilisée à la minute, selon disponibilité. Événements spéciaux : Il est possible de privatiser l’ensemble de l’espace en dehors des heures de travail. Pour cela, veuillez contacter l’équipe commerciale de Workways. Règles d’usage : Manger dans cet espace n’est pas autorisé. Merci de remettre les chaises et équipements en place après utilisation. Manger dans cet espace n’est pas autorisé. Merci de remettre les chaises et équipements en place après utilisation.",
+    "url": "https://support.workways.com/docs/espace-second-home/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.604171Z"
+  },
+  {
+    "id": "c1414befcf4de2d64d9cf3a23ce5bda17b49cfd7b51f409f264cfb7a48a3c744",
+    "question": "Colette – règles d’utilisation de la salle",
+    "answer": "La salle Colette est un espace de réunion et d’événements situé dans notre bâtiment Excelsiorlaan 8/6 à Zaventem (Belgique). Veuillez trouver ci-dessous les règles pour l’utilisation de cette salle : 1. Nourriture et boissons Vous pouvez apporter vos propres boissons et nourriture, y compris des services traiteur. Les boissons alcoolisées sont autorisées. 2. Utilisation du réfrigérateur Vous pouvez utiliser le réfrigérateur situé derrière le bar Colette. 3. Frais de nettoyage et de gestion Des frais de nettoyage et de gestion de 200 € s’appliquent uniquement si vous apportez de la nourriture ou des boissons . Si vous n’apportez ni nourriture ni boissons, aucun frais ne sera appliqué. Lors de la réservation, veuillez informer notre équipe commerciale afin qu’ils puissent appliquer les frais si nécessaire.",
+    "url": "https://support.workways.com/docs/colette/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.633401Z"
+  },
+  {
+    "id": "4528dd7b3ccfaf5b4b3f685c567340c1357f8c8a39483f41c1a2485eb80c80b7",
+    "question": "Accéder à Internet",
+    "answer": "Les informations sur le Wi-Fi sont affichées dans les espaces communs des bâtiments.",
+    "url": "https://support.workways.com/docs/acceder-a-internet/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.683736Z"
+  },
+  {
+    "id": "73c2376210bb24850d066566908e946f3fcc05c8b650f1cc4c84eae487d1e04d",
+    "question": "Problèmes de Wi-Fi – que faire ?",
+    "answer": "Si vous rencontrez des problèmes de Wi-Fi, merci de fournir les informations suivantes afin d’aider notre équipe informatique à résoudre le problème. Veuillez suivre ces étapes (2 minutes) : 1. Vérifier le bon réseauWi-Fi Assurez-vous d’être connecté au Wi-Fi “Workways” ou à votre Wi-Fi/SSID privé si votre entreprise a souscrit cette option. Si vous êtes connecté à un autre réseau (ex. partage 4G, Wi-Fi voisin, ancien réseau), basculez sur le bon SSID puis retestez. 2 . Vérifier si le problème vient de l’appareil (idéalement après avoir redémarré). Testez au même endroit , sur le même Wi-Fi , avec un autre périphérique (téléphone ou autre ordinateur). Si un seul appareil est touché : Workways n’intervient pas (problème matériel / configuration du poste : carte Wi-Fi, VPN, antivirus, paramètres réseau, mises à jour…). Merci de contacter votre support IT / le fabricant. Si plusieurs appareils sont touchés : passez à l’étape 3. Si un seul appareil est touché : Workways n’intervient pas (problème matériel / configuration du poste : carte Wi-Fi, VPN, antivirus, paramètres réseau, mises à jour…). Merci de contacter votre support IT / le fabricant. Si plusieurs appareils sont touchés : passez à l’étape 3. 3. Tester et partager un Speedtest (Google) Lancez un test de débit en étant connecté au Wi-Fi concerné, puis faites une capture d’écran (download / upload / latence) : https://www.google.com/search?q=speed+test Si le problème persiste après ces 3 étapes Contactez le Help Center Workways en copiant-collant ce questionnaire et en le complétant : Problème exact : lenteur / coupures / pas d’accès internet / authentification impossible (portail captif) Qui est impacté : une seule personne ou plusieurs ? Où : bâtiment + étage + zone/salle/bureau Depuis quand : date/heure de début + intermittent ou constant Équipement : modèle (ex : Dell XPS / iPhone 13) + OS (Windows/macOS/iOS/Android) Wi-Fi (SSID) : nom exact du réseau Adresse IP ( obligatoire) : 10.xxx.xxx.xxx Capture écran du Speedtest connecté au Wi-Fi Comment envoyer vos résultats Visitez app.workways.com et utilisez le widget de chat situé en bas à droite de l’écran. Cliquez sur « Demandez » pour contacter le Help Center Workways. L’équipe vous répondra dans les plus brefs délais. Wi-Fi #WiFi #wifi #wi-fi #W-Fi #wifi-network #wireless-network #réseau-sans-fil #réseauWiFi",
+    "url": "https://support.workways.com/docs/problemes-de-wi-fi-que-faire/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.715520Z"
+  },
+  {
+    "id": "27d09d9c4e41d2b8604ccafb7d49b728f4de3b24a29b0ba1234b46dd57d972f1",
+    "question": "Partager une imprimante entre plusieurs postes de travail – option « Réseau local privé »",
+    "answer": "En souscrivant à l’option « Réseau local privé », vous bénéficiez de l’installation, dans votre bureau, d’un routeur équipé de 5 ports RJ45. Ce dispositif vous permet de créer votre propre réseau local filaire, pour connecter vos ordinateurs entre eux et partager facilement vos ressources (fichiers, imprimantes, etc.). L’option inclut également la mise en place d’un réseau Wi-Fi privé, indépendant et sécurisé, réservé à votre espace. Pour souscrire à cette offre et en connaître les conditions tarifaires, merci de contacter le service commercial de Workways.",
+    "url": "https://support.workways.com/docs/partager-une-imprimante-entre-plusieurs-postes-de-travail-option-reseau-local-prive/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.750560Z"
+  },
+  {
+    "id": "c41db1eace3ac400287e74df1f528c49183c383e2882ce0c324e870dff07d0c7",
+    "question": "Imprimer chez Workways",
+    "answer": "Workways ne propose pas de service d’impression, pour plusieurs raisons : Une démarche écoresponsable : nous encourageons la réduction des impressions papier dans une logique durable et respectueuse de l’environnement. Des contraintes techniques et de sécurité : l’installation de pilotes sur les ordinateurs personnels pose des problèmes de compatibilité (PC/Mac), de confidentialité, de gestion de la facturation et de cybersécurité. Une solution peu pratique : devoir se déplacer vers une imprimante partagée dans un local dédié n’est souvent ni confortable, ni efficace pour nos membres. Une demande très faible : aujourd’hui, l’immense majorité de nos coworkers ne fait plus appel à ce type de service. 👉 Si l’impression est essentielle à votre activité, nous vous recommandons l’achat d’une imprimante personnelle : des modèles fiables sont disponibles à partir de quelques centaines d’euros. Pour savoir comment partager une imprimante entre plusieurs postes de travail via l’option « Réseau local privé », cliquez ici .",
+    "url": "https://support.workways.com/docs/imprimer/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.779728Z"
+  },
+  {
+    "id": "99a1351b448e2160dbea6a1884b31367d4bb74c23c82e593b39cbcc2182793b5",
+    "question": "Connecter un appareil à une télévision dans un bureau ou une salle de réunion",
+    "answer": "Lorsque des téléviseurs sont disponibles dans les bureaux ou salles de réunion, le seul mode de connexion supporté par Workways est le câble HDMI. Dans les salles de réunion, un câble HDMI est déjà connecté à la télévision et mis à disposition. Apportez vos adaptateurs si votre appareil ne dispose pas d’un port HDMI. Selon les modèles de téléviseurs, d’autres options de connexion, notamment sans fil, peuvent être disponibles. Vous êtes libre de les utiliser, mais leur fonctionnement n’est pas garanti, car il dépend du matériel utilisé. Workways n’assure aucun support technique pour les connexions de type « On the Air ».",
+    "url": "https://support.workways.com/docs/4-connecter-un-appareil-a-une-television-dans-un-bureau-ou-une-salle-de-reunion/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.808691Z"
+  },
+  {
+    "id": "4bfe8fb4c378ec92aae94467d07e5d1680eb80dd06381e613a913ff209c8e411",
+    "question": "Maintenir la propreté dans les espaces partagés",
+    "answer": "Le nettoyage des espaces communs est assuré par Workways, mais chaque résident est tenu de laisser les espaces propres après usage, notamment les cuisines, sanitaires, et salles de réunion.",
+    "url": "https://support.workways.com/docs/maintenir-la-proprete-dans-les-espaces-partages/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.858808Z"
+  },
+  {
+    "id": "6a08a1e3d9f17b56d1a3f7564ddae4590bb28347a2bd683fff24b95903b289dc",
+    "question": "Où déposer mes cartons et mes déchets électroniques (Belgium – Zaventem)?",
+    "answer": "Pour les cartons : Vous pouvez déposer vos cartons (petits, moyens ou grands) dans les locaux dédiés : Bâtiment 8/6 Excelsiorlaan : Le local se trouve au sous-sol du bâtiment 6, en face de la salle de sport. Bâtiment 44 Excelsiorlaan : Le local poubelles se situe à l’arrière du lobby du 44. ⚠️ Veuillez déposer uniquement des cartons à ces endroits et éviter de laisser des déchets ou des cartons dans les bureaux ou les couloirs. Pour les déchets électroniques : Pour vos appareils électroménagers ou électroniques, Recupel offre un service gratuit d’enlèvement directement sur votre lieu de travail. Pour plus d’informations, visitez leur site web en cliquant ici .",
+    "url": "https://support.workways.com/docs/ou-deposer-mes-cartons-et-mes-dechets-electroniques/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.888076Z"
+  },
+  {
+    "id": "2023e1d1962d78a1c162da2e08574ca86153302fcbe2de5a681bbdc6b324f010",
+    "question": "Suivre des pratiques éco-responsables",
+    "answer": "Trier les déchets (poubelles de tri disponibles). Réduire les impressions papier. Utiliser les lumières et la climatisation de manière responsable. Minimiser la consommation d’eau, notamment en utilisant de l’eau froide pour se laver les mains et en ne laissant pas couler inutilement les robinets",
+    "url": "https://support.workways.com/docs/suivre-des-pratiques-eco-responsables/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.917202Z"
+  },
+  {
+    "id": "669cdde48cbf78e3365c400b02c7d961b4abec73f28514ba7c39a443da2635e5",
+    "question": "Consommation d’alcool dans le bâtiment",
+    "answer": "La consommation d’alcool est interdite dans le Coffee Lounge et la cuisine, sauf lors des événements organisés par Workways. Elle est autorisée dans les bureaux privés, le bar lounge et les playrooms lors d’événements.",
+    "url": "https://support.workways.com/docs/consommation-dalcool-dans-le-batiment/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.952020Z"
+  },
+  {
+    "id": "5670f7e35be53b4ada8847baff28a6bb878d73814f391eb679401288ca8193f4",
+    "question": "Zone fumeurs",
+    "answer": "Il est interdit de fumer dans tout le bâtiment, y compris les cigarettes électroniques. Une zone fumeurs est disponible à l’extérieur, à droite de l’entrée principale.",
+    "url": "https://support.workways.com/docs/zone-fumeurs/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:31.980925Z"
+  },
+  {
+    "id": "c76e9dfb72223eb72b3763a9354f2bddbc414443a1088393243dac7af99bc32a",
+    "question": "Modifier votre mot de passe",
+    "answer": "Connectez-vous sur app.workways.com et cliquez sur le bouton Se connecter sans mot de passe. Cliquez sur Recevoir le lien . Vous allez recevoir par email un lien vous permettant de vous connecter. Une fois que cela sera fait, vous pourrez modifier votre mot de passe dans l’application Workways. Allez dans le menu du profil utilisateur et sélectionnez: Changer le mot de passe . Vous ne pouvez pas accéder à votre email Dans certains cas, votre administrateur ne connaît pas votre email, vous n’avez pas d’email professionnel ou pour toute autre raison il utilise une adresse qui n’existe pas, par exemple albert@darnwell.nomail . Dans ce cas, l’administrateur vous a communiqué un mot de passe. Si vous l’avez oublié, demandez lui d’en créer un nouveau et de vous le communiquer.",
+    "url": "https://support.workways.com/docs/modifier-mot-de-passe/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.032763Z"
+  },
+  {
+    "id": "70eff4f9909e3f00b88313bd54e76bbd8b17cef888f05d323c08a427e5529ba3",
+    "question": "Changer l’adresse email",
+    "answer": "Lorsque vous changez une adresse email dans l’application Workways , ou que vous la changez pour un autre membre (note : seul l’administrateur de votre société pour l’application Workways peut l’effectuer), il est nécessaire de saisir un nouveau mot de passe. Ceci pour des raisons de sécurité, afin de garantir que seul le propriétaire du compte puisse accéder à son compte Workways après le changement d’adresse email.",
+    "url": "https://support.workways.com/docs/changer-ladresse-email/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.062928Z"
+  },
+  {
+    "id": "116190a0d83818b149ec3ed40c4c5c55e1c8a9e54ed5fd58cd4991f8bd565d50",
+    "question": "Inviter des membres",
+    "answer": "Lorsqu’il y a un nouvel employé, vous devez l’ajouter à l’application Workways. Remarque : Seul l’administrateur de votre société peut l’effectuer. Veuillez suivre les étapes suivantes : Connectez-vous sur app.workways.com . Cliquez sur le menu W et sélectionnez Membres . Dans Membres , ouvrez le menu d’actions et cliquez sur Inviter des membres . Saisissez l’adresse e-mail de la personne ou des personnes que vous souhaitez inviter. → Ajouter plusieurs membres en une fois en copiant et collant une liste d’adresses e-mail vous permet d’ajouter rapidement de nombreux utilisateurs sans saisir chaque e-mail individuelleme nt. Choisissez de les inviter en tant que membre régulie r ou invité ( Day pass ). Sélectionnez Générer un code d’enregistrement du badge d’accès s’ils doivent recevoir le code PIN pour activer leur carte d’accès. Définissez leurs jours d’accès : – Semaine de travail (lundi–vendredi, 6h–22h ) – Ajoutez le samedi et/ou le dimanche si nécessaire. Cliquez sur Enregistrer . Important : Une fois qu’un nouvel employé/membre a été ajouté à l’application Workways et qu’il a besoin d’accéder au bâtiment/bureau, il devra enregistrer sa carte d’accès. Le guide à suivre se trouve ici .",
+    "url": "https://support.workways.com/docs/inviter-des-membres/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.094032Z"
+  },
+  {
+    "id": "892dec636d3b1af05e2bf5ae32d3c9cc2579b827f6953b4db0273f512efa3e4c",
+    "question": "Day pass (Visiteurs)",
+    "answer": "Si vous recevez régulièrement le même visiteur ou l’accueillez pour une courte période, vous devez l’enregistrer sur la liste des membres de votre société en tant que Day pass (membre invité). Une icône de calendrier s’affiche sur le profil des membres invités (Day pass), avec la mention « Day » (jour). ⚠️ Si vous créez un pass journalier pour vos visiteurs, veuillez vous assurer que leurs prénom et nom sont saisis dans l’application Workways. La carte d’accès ne peut pas être anonyme, car nous devons savoir qui se trouve dans le bâtiment pour des raisons de sécurité. Une fois qu’un Day pass a été créé dans l’application Workways, il est nécessaire d’enregistrer une carte d’accès pour cette personne. Suivez le guide ici .",
+    "url": "https://support.workways.com/docs/day-pass/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.123283Z"
+  },
+  {
+    "id": "68863ba7a6ff22402f4625147d886069e1ea5d3a8199ebb67e9950a9691e4ffd",
+    "question": "Modifier des membres",
+    "answer": "Si vous devez mettre à jour les informations de votre membre, veuillez suivre ces étapes : Remarque : Seul l’administrateur de votre société peut l’effectuer. Connectez-vous sur app.workways.com . Cliquez sur le menu W et sélectionnez Membres . Trouvez le membre que vous souhaitez modifier et cliquez sur ce m membre ou cliquez sur Modifier Membre dans le menu d’actions. Vous pouvez modifier les informations suivantes : Nom, description et titre Adresse e-mail et mot de passe Paramètres d’accès au bâtiment et au bureau Paramètres de livraison des colis Autres paramètres : Langue de l’interface de l’application Workways (anglais ou français) Rôle du membre (administrateur, membre régulier ou membre invité/Day pass) Activation/désactivation de l’option permettant de consulter les prix des prestations. Langue de l’interface de l’application Workways (anglais ou français) Rôle du membre (administrateur, membre régulier ou membre invité/Day pass) Activation/désactivation de l’option permettant de consulter les prix des prestations. Notez qu’il y a une petite flèche vers le haut et une vers le bas pour chaque section. Cliquer sur la flèche vers le haut masque la section, tandis que cliquer sur la flèche vers le bas l’ouvre pour que vous puissiez la voir et la modifier. Chaque fois que vous effectuez une modification, cliquez sur le bouton Enregistrer en bas de la page.",
+    "url": "https://support.workways.com/docs/modifier-des-membres/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.161690Z"
+  },
+  {
+    "id": "bccce4ef4d0c64f57a583e1bf3211939d4323eaf457a37ce52166c229219374a",
+    "question": "Archiver des membres",
+    "answer": "Archiver un membre signifie désactiver son accès aux espaces et bureaux Workways. 1. Quand archiver ? Lorsqu’un membre quitte la société. Lorsqu’il n’a plus besoin d’accès (Workways app, carte d’accès, salles, etc.). 2. Effets de l’archivage : Le membre n’apparaît plus dans la liste active. Il ne peut plus accéder aux bâtiments, aux bureaux ni aux services. 3. Comment l’effectuer : Connectez-vous sur app.workways.com . Cliquez sur le menu W et sélectionnez Membres . Trouvez le membre que vous souhaitez archiver et cliquez sur Modifier Membre dans le menu d’actions. Cliquez sur l’icône de boîte d’archives . Un message apparaîtra pour vous demander de confirmer. Cliquez sur OK .",
+    "url": "https://support.workways.com/docs/archiver-des-membres/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.192238Z"
+  },
+  {
+    "id": "2a4dc13536bcbd881ffbe4c569299d907f91c8865c11989f4815c794a6fc083f",
+    "question": "Réserver une salle",
+    "answer": "Connectez-vous sur app.workways.com , puis ouvrez le menu W dans le contexte Réservations . Cliquez sur Ajouter une réservation . Sélectionnez le site (par défaut, celui où vous louez un bureau), le nombre de personnes , la salle qui vous intéresse, puis cliquez sur Continuer . Sélectionnez la période qui vous intéresse. Si vous avez besoin de sélectionner une heure avant 8h ou après 20h, cela peut se faire plus tard (voir les cas spéciaux dans la suite de ce document). Cliquez sur le bouton Continuer . Ensuite, vous pouvez ajouter un ou plusieurs participants à la réunion en copiant leurs adresses mails ci-dessous. Dans la section Prix de la réservation et des extras , vous verrez que le tarif est calculé automatiquement. Si un prix particulier a été convenu (suite à un accord préalable), indiquez-le dans la zone Prix négocié * * Prix négocié – ce champ est visible uniquement par le personnel Workways. Cliquez sur Continuer pour passer à l’étape suivante. Dans la section Informations sur la réservation , vous pourrez : Donner un nom à l’événement. Choisir si vous souhaitez notifier le responsable des réservations. Consulter le code PIN pour l’accès des invités : veuillez noter que vous pouvez partager ce code PIN afin de permettre aux invités participant à la réunion, qui ne disposent pas d’une carte d’accès Workways, d’entrer dans le bâtiment Cliquez sur Créer pour finaliser votre réservation.",
+    "url": "https://support.workways.com/docs/reserver-une-salle/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.223747Z"
+  },
+  {
+    "id": "e47ea9938a59aa730943fc46be8de00e3af35f5214f91b8f1a62a3978c409612",
+    "question": "Réserver une salle – demander un horaire hors des blocs proposés",
+    "answer": "La grille de saisie de l’application Workways permet de sélectionner des blocs pendant les heures de bureau habituelles. Si vous souhaitez un horaire en dehors des blocs proposés, il faut d’abord enregistrer la réservation. Quand la réservation est enregistrée, elle est affichée dans la liste des réservations. Pour la modifier : Cliquez sur la date qui apparaît dans la zone encadrée en rouge. Vous pouvez aussi utiliser le menu des actions et sélectionner Modifier la réservation . Vous pouvez modifier les heures de début et de fin de réservation. Cliquez sur Enregistrer .",
+    "url": "https://support.workways.com/docs/reserver-une-salle-demander-un-horaire-hors-des-blocs-proposes/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.253128Z"
+  },
+  {
+    "id": "d893fe7e4847e4de4ba1558c2eee0afa4f5d5b1422d55bdc9e9eb46b6f5740d8",
+    "question": "Comment annuler ma réservation ?",
+    "answer": "Une réservation existante pour une salle de réunion, une salle de conférence ou toute autre ressource d’espace de travail peut être annulée à tout moment avant l’heure de début prévue de la réunion . Une fois la réunion commencée, la réservation ne peut plus être annulée. Pour annuler votre réservation via l’application Workways, veuillez suivre les étapes suivantes : 1. Connectez-vous sur app.workways.com , puis ouvrez le menu W dans le contexte Réservations . 2. Cliquez sur la réservation que vous souhaitez annuler. 3. Cliquez sur l’icône de boîte d’archives. Un message apparaîtra pour vous demander de confirmer. Cliquez sur OK.",
+    "url": "https://support.workways.com/docs/comment-annuler-ma-reservation/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.282417Z"
+  },
+  {
+    "id": "de71bff68807a9e8f4fda786d3e285f1e758f11f7fd9b82fbcb6a7de83323647",
+    "question": "Format de date dans le calendrier de réservation",
+    "answer": "Pourquoi les dates s’affichent-elles au format MM/JJ ? Le format de date affiché dans le calendrier de réservation Workways est automatiquement déterminé par la langue configurée dans votre navigateur. Si la langue de votre navigateur est définie sur Anglais (États-Unis) , les dates s’affichent au format MM/JJ . Comment passer au format JJ/MM (format européen) ? Pour afficher les dates au format JJ/MM , vous devez modifier les paramètres de langue de votre navigateur vers une version européenne de l’anglais (par exemple Anglais (Royaume-Uni) ou Anglais (Belgique) ). Les étapes peuvent varier selon le navigateur utilisé. Exemple (Google Chrome) : Accédez à : chrome://settings/languages Placez Anglais (Royaume-Uni) ou Anglais (Belgique) en haut de la liste des langues Redémarrez votre navigateur Après cette modification, Workways affichera les dates au format JJ/MM dans le calendrier de réservation. Remarque : Ce changement affecte uniquement l’affichage des dates. Aucune autre fonctionnalité de Workways ne sera impactée.",
+    "url": "https://support.workways.com/docs/format-de-date-dans-le-calendrier-de-reservation/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.312387Z"
+  },
+  {
+    "id": "646e21512eee6a1d1b9ceddbc7bafe82667809271dcdb15ec51ae5adf50ee7b1",
+    "question": "Instant Meeting – utiliser une salle à la minute",
+    "answer": "Quand l’utiliser ? Idéal pour un besoin immédiat (appel/visio rapide, imprévu), en alternative aux réservations classiques effectuées via l’application Workways. Démarrer : scannez le QR code à l’entrée de la salle, puis appuyez sur Utiliser tout de suite et laissez-vous guider par l’application Workways . Arrêter : appuyez sur Arrêter et quitter la salle dans l’application ou re-scannez le QR code et choisissez Arrêter et quitter la salle . Facturation : au temps réel (à la minute ou par paliers, selon le site). Tarifs affichés dans l’application. ⚠️ Si vous n’arrêtez pas votre réunion, la facturation continue et vous serez facturé jusqu’à la prochaine occupation de la salle ou jusqu’à la fin de la journée. Bonnes pratiques : terminez la session, libérez la salle à l’heure et laissez l’espace propre. Consultez les règles d’usage ici .",
+    "url": "https://support.workways.com/docs/instant-meeting/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.349767Z"
+  },
+  {
+    "id": "92cb8208cd961757716521ce0a1cc48d005823632e17982681be4a5e3d631a31",
+    "question": "Gestion des numéros de téléphone des sociétés",
+    "answer": "Qui peut modifier le numéro de téléphone principal d’une société? Les administrateurs de la société ont accès au premier numéro de leur société et peuvent le modifier directement dans l’application Workways . ⚠️ Ce numéro correspond à celui utilisé lorsque quelqu’un appelle votre société via l’interphone à l’entrée principale. Quel format doit être utilisé pour le numéro ? Le numéro doit obligatoirement être au format local, avec le 0 en premier et sans espace. Exemple pour la Belgique : 02XXXXXXX Où le modifier ? Rendez-vous sur app.workways.com , puis cliquez sur le menu W et sélectionnez Membres . Dans Membres , ouvrez le menu d’actions et cliquez sur Modifier Société . Ensuite, allez dans Contacts (interphone) et saisissez votre numéro de téléphone dans le champ: Téléphone (interphone) , puis cliquez sur Enregistrer . Le client peut-il voir ou modifier le nom associé à un numéro ? Non, le client n’a pas accès au nom associé au numéro. Si ce champ est vide, le nom affiché sera celui de la société. Est-il possible de changer le libellé d’un numéro ou ajouter un autre numéro ? Tout changement de libellé ou ajout d’un autre numéro doit être approuvé par l’équipe Workways Spaces Control, qui est la seule à pouvoir effectuer ces modifications.",
+    "url": "https://support.workways.com/docs/gestion-des-numeros-de-telephone-des-societes/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.379825Z"
+  },
+  {
+    "id": "bccbf6572abef054fe713b1364168c7618360e3e903b8dd8b7e2f450042c0fb2",
+    "question": "Comment afficher le nom de ma société chez Workways ?",
+    "answer": "Il y a deux endroits où le nom de votre société peut être affiché chez Workways : Sur l’écran numérique du lobby : votre logo en couleur peut apparaître sur les télévisions situées dans le hall d’entrée. Sur les plaques de porte : dans certains bâtiments, nous pouvons graver une plaque avec votre logo. Pour cela, un fichier monochrome et contrasté est requis. Pour plus de détails sur cette offre, contactez notre équipe commerciale. Dans tous les cas, rendez-vous sur app.workways.com afin de télécharger le logo de votre société. Ensuite, cliquez sur le menu W et sélectionnez Membres . Dans Membres , ouvrez le menu d’actions et cliquez sur Modifier Société . * Un compte administrateur est nécessaire pour effectuer ces changements. Dans la section Logos (TV accueil, bureaux) , vous pourrez télécharger votre logo.",
+    "url": "https://support.workways.com/docs/comment-afficher-le-nom-de-ma-societe-chez-workways/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.409526Z"
+  },
+  {
+    "id": "dad86437851cb3aaabe8b7c4131baddf0475eb70657faf74b3e20c3cc9512b57",
+    "question": "Comment changer votre code PIN de bureau, de réunion ou de livraison",
+    "answer": "Seuls les administrateurs de la société peuvent modifier vos codes PIN. 1. Connectez-vous sur app.workways.com et cliquez sur le menu W et sélectionnez Membres . 2. Dans Membres , ouvrez le menu d’actions et cliquez sur Modifier Société. 3. Ensuite, allez dans les Paramètres administrateur Workways et choisissez le type de code PIN que vous souhaitez mettre à jour : Code PIN pour les réunions (Meeting PIN) Code PIN de livraison (Delivery PIN) Code PIN de bureau (code PIN pour les bureaux loués par la société) 4. Pour changer le code PIN, cliquez dessus et enregistrez vos modifications. Une fois mis à jour, le nouveau code PIN sera effectif immédiatement.",
+    "url": "https://support.workways.com/docs/comment-changer-votre-code-pin-de-bureau-de-reunion-ou-de-livraison/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.439271Z"
+  },
+  {
+    "id": "2c5b9e4d73e703c19c7604d9a1a841ce0401bbc80294a13aed2ef06bc16979ae",
+    "question": "Reconnaissance faciale comme moyen d’accès au bâtiment",
+    "answer": "La reconnaissance faciale vous permet d’accéder à votre bâtiment rapidement et en toute sécurité – aucune carte d’accès n’est requise à l’entrée du bâtiment. Une fois activée, votre photo de profil est utilisée pour vous identifier sur les dispositifs d’entrée compatibles. Veuillez noter : L’activation de la reconnaissance faciale comme moyen d’accès peut être soumise à des frais supplémentaires. Avant de commencer L’option reconnaissance faciale est disponible uniquement si : Votre société a activé la reconnaissance faciale. Votre entreprise doit en faire la demande via le Help Center Workways. Votre entreprise doit en faire la demande via le Help Center Workways. Vous avez une photo de profil téléchargée sur votre compte. Vous disposez d’une carte d’accès validée (ne commençant pas par ADDxxxx). Comment activer la reconnaissance faciale Accédez à Gérer les accès dans votre compte. Cliquez sur Utiliser la reconnaissance faciale . Lors de la première utilisation, un message de consentement s’affichera (conformément aux réglementations sur la protection des données telles que le RGPD). Cliquez sur Utiliser ma photo de profil pour la reconnaissance faciale . Vérification de la photo Le système vérifiera automatiquement si votre photo respecte les critères requis. ✅ Si votre photo est validée Tout est prêt ! Vous pouvez désormais utiliser la reconnaissance faciale pour accéder au bâtiment. ⚠️ Si votre photo n’est pas validée Vous pouvez recevoir un avertissement ou une erreur si : Plusieurs visages apparaissent sur la photo Votre visage n’est que partiellement visible Votre visage apparaît trop petit Le fond n’est pas uni Vous ne faites pas face à l’appareil photo Dans ce cas, veuillez télécharger une nouvelle photo de profil conforme aux exigences, puis réessayer.",
+    "url": "https://support.workways.com/docs/reconnaissance-faciale/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.470012Z"
+  },
+  {
+    "id": "74200aed4fd09679433a3ae0b9839f238578343f11e515b6562c57516a31e7cb",
+    "question": "Comment localiser un bureau ou une autre zone dans le bâtiment ?",
+    "answer": "Connectez-vous sur app.workways.com . Cliquez sur le menu W et sélectionnez Sites . Cliquez sur le nom du bâtiment . Ouvrez le menu d’action et cliquez sur Plan de la zone . Vous pouvez accéder aux différents plans de niveau en cliquant sur la petite flèche à côté du nom du bâtiment. Exemple:",
+    "url": "https://support.workways.com/docs/plan-de-la-zone/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.499437Z"
+  },
+  {
+    "id": "381e4fb925dfc6c89d4d635b065caced559eb968718f539ce7479003c99a3990",
+    "question": "Salle de sport et vestiaires dans la salle de sport",
+    "answer": "Un vestiaire avec douches est mis à disposition des utilisateurs de la salle de sport ainsi que des personnes venant à vélo. Des casiers sont disponibles pour y déposer les effets personnels pendant la séance de sport ou la douche, sous la responsabilité de l’utilisateur. Ces casiers ne ferment pas à clé. Il est demandé aux utilisateurs de ne rien laisser traîner en dehors des casiers pendant leur douche ou leur séance. Il est formellement interdit de laisser des effets personnels en dehors de l’utilisation de la salle de sport ou des douches. Attention : tous les effets personnels laissés dans les vestiaires sans la présence de leur propriétaire seront jetés en fin de journée, pour des raisons d’hygiène.",
+    "url": "https://support.workways.com/docs/salle-de-sport-et-vestiaires-dans-la-salle-de-sport/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.533870Z"
+  },
+  {
+    "id": "c877b8cfc72b3b4b4d9498e28e43f624384538466d4631119dbb6124735c769f",
+    "question": "Repas & événements",
+    "answer": "Nous organisons un déjeuner ou dîner corporate. Que réserver ? Pour tout événement d’entreprise (déjeuner ou dîner), il suffit de réserver le bar Colette ou privatiser le Coffee Lounge après 18h. Nous sommes là pour vous aider à choisir la meilleure option ! Nous avons seulement loué une salle de réunion. Peut-on utiliser le Coffee Lounge ? En tant qu’utilisateurs non membres, vous avez accès à : Coffee Corner, Tea Bar, Water Bar. Si vous prévoyez un repas de groupe (avec livraison ou traiteur), il faudra simplement réserver un espace dédié. Nous sommes plus de 5 avec un lunch livré ou un traiteur. Que faire ? À partir de 5 personnes, un espace de restauration devient nécessaire. Le plus simple : réserver le bar Colette. Peut-on faire appel à un traiteur ? Oui, bien sûr ! Nous vous demandons simplement d’informer notre équipe commerciale avant l’événement, afin que l’équipe puisse valider et préparer au mieux votre venue. Y aura-t-il des frais supplémentaires si nous faisons appel à un traiteur ? Des frais de gestion ou de nettoyage peuvent s’appliquer, selon les besoins de votre installation. Nous vous informons toujours clairement avant confirmation. Comment réserver le bar Colette ou privatiser le Coffee Lounge ? C’est simple : contactez l’équipe commerciale Workways. Nous regarderons ensemble : les disponibilités, l’espace le plus adapté à votre projet, et les éventuels frais liés à l’événement.",
+    "url": "https://support.workways.com/docs/repas-evenements/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.563852Z"
+  },
+  {
+    "id": "89c3ba25ee5f88c13dd0572c4586e11ceeaf9d524bd50b44705b9b2b7beb71bd",
+    "question": "Est-ce que Workways fournit un service de catering dans les salles de réunion ?",
+    "answer": "Workways ne fournit pas de service de catering. Merci de prendre vos repas et snacks dans les espaces désignés (kitchen/cuisine, Coffee Lounge, Coffee Corner ou restaurant) et de laisser la salle de réunion sans nourriture.",
+    "url": "https://support.workways.com/docs/catering-dans-les-salles-de-reunion/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.592857Z"
+  },
+  {
+    "id": "ee7ed6b2cc9b6e548e5801a79de64d9ebeaa31bdbf7e5cc460bdbfb2d0bb0ad4",
+    "question": "Est-ce que des rafraîchissements sont disponibles chez Workways ?",
+    "answer": "Dans le cadre de la location du bureau ou de la salle de réunion, le café, le thé et l’eau sont disponibles en libre-service dans le Coffee Lounge ou le Coffee Corner.",
+    "url": "https://support.workways.com/docs/rafraichissements/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.621925Z"
+  },
+  {
+    "id": "65737d4c1fb7ff3d9da05d65c48b881e80941fa423bdd2bae19eb056fcd8401d",
+    "question": "Smart lunch chez Workways – BOCO (Belgium – Zaventem)",
+    "answer": "Qu’est-ce que BOCO ? BOCO est le service de smart lunch sur site de Workways : des plats principaux, soupes et desserts préparés par des chefs, servis dans des bocaux en verre réutilisables. Sans conservateurs, riches en goût et prêts en quelques minutes. Prenez-en un pour un lunch rapide au bureau ou à emporter. Où puis-je le trouver ? Dans le frigo intelligent du Colette Bar , à côté de la cuisine et du Coffee Lounge, 8 Excelsiorlaan . Que trouve-t-on au menu ? Une sélection tournante de plats principaux, soupes et desserts, avec des options végétariennes et sans gluten. Plus d’infos sur boco.fr . Comment acheter un bocal ? Choisissez votre bocal. Scannez le QR code du produit avec l’appareil photo de votre téléphone (pas avec votre application bancaire) Suivez les instructions à l’écran pour régler votre achat. Comment le réchauffer en toute sécurité ? Au micro-ondes : maximum 2 minutes . Ne tirez pas sur l’onglet du joint en caoutchouc avant le chauffage. Faites attention en retirant le bocal : c’est chaud ! Combien ça coûte ? Plats principaux : un prix unique (plusieurs plats au même tarif). Soupes & desserts : un prix unique par catégorie. Y a-t-il des informations sur les régimes alimentaires ou allergènes ? Oui – consultez l’étiquette de chaque bocal pour les ingrédients et les allergènes. Puis-je recycler ou réutiliser les bocaux ? Merci de réutiliser le bocal à la maison ou de le recycler selon les consignes locales. Que faire si le QR code ne se scanne pas ? Nettoyez le verre, essayez un meilleur éclairage ou rapprochez-vous. Si cela ne fonctionne toujours pas, essayez le code d’un autre bocal pour ouvrir le paiement et sélectionnez l’article correct dans la liste.",
+    "url": "https://support.workways.com/docs/smart-lunch-boco/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.652646Z"
+  },
+  {
+    "id": "f97e4272f818cc69a26c58600182022a33c0357ce99864d1de8012435ba1e0dc",
+    "question": "Manipulation des installations électriques",
+    "answer": "Toute modification des installations électriques est strictement interdite. L’utilisation de rallonges non conformes est également proscrite.",
+    "url": "https://support.workways.com/docs/manipulation-des-installations-electriques/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.681498Z"
+  },
+  {
+    "id": "f3efe34f1207726ac6001b9130c8dfb7cae53e48622bb4b9493d5f0fd6cc50e3",
+    "question": "Signaler des problèmes dans le bâtiment",
+    "answer": "Pour traiter rapidement tout problème lié au bâtiment, nous avons besoin de quelques informations de base. Cela permet souvent de résoudre la situation plus vite et, si nécessaire, de transmettre un ticket complet au service technique. Types de problèmes à signaler : Vous pouvez nous signaler tout problème affectant votre bureau ou espace, par exemple : Électricité Fuite d’eau Mobilier Tout autre dysfonctionnement général ⚠️ Pour les problèmes de chauffage ou de climatisation, veuillez suivre le processus spécifique décrit ici pour un traitement plus rapide. Informations à fournir : Localisation : Bâtiment, étage, n° de bureau / zone Contact sur place : Nom + téléphone Nature du problème : Décrivez clairement ce qui ne fonctionne pas ou pose problème (ex. fuite, panne électrique, mobilier endommagé, autre dysfonctionnement). Depuis quand : Heure, date, récurrent ou non Étendue : Un seul bureau ou plusieurs ? Urgence : Indiquez comment ce problème vous affecte (empêche le travail, gêne légère, n’impacte pas votre activité) afin que nous comprenions son importance Photos/vidéos : Pièces, zone concernée Autres remarques : Toute information utile Qui dois-je contacter ? Pour envoyer vos réponses, visitez app.workways.com et utilisez le widget de chat en bas à droite de l’écran. Cliquez sur Demandez pour contacter le Help Center Workways. L’équipe vous répondra dans les plus brefs délais.",
+    "url": "https://support.workways.com/docs/signaler-des-problemes-dans-le-batiment/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.711990Z"
+  },
+  {
+    "id": "aafd453a71ff8e2de27eec46b5b2b1e2e24a72fc120111e12d1c0dbf3daa65fd",
+    "question": "Signaler un problème de chauffage ou de climatisation",
+    "answer": "Afin de traiter rapidement les problèmes de chauffage ou de climatisation, nous avons besoin de quelques vérifications de base. Cela permet souvent de résoudre la situation plus vite et, si nécessaire, de transmettre une demande complète à l’équipe concernée. Informations à fournir : Localisation: Bâtiment, étage, n° de bureau / zone Contact sur place: Nom + téléphone Nature du problème: Trop froid / trop chaud / pas d’air / instable Depuis quand: Heure, date, récurrent ou non Étendue: Un seul bureau ou plusieurs ? Thermostat: Mode (chaud/froid/auto/off) + température réglée Message d’erreur: Code erreur, écran éteint, piles faibles Urgence: Indiquez comment ce problème vous affecte (par exemple : empêche le travail, gêne légère, n’impacte pas votre activité) afin que nous comprenions son importance pour vous. Photos/vidéos : Thermostat + bouche d’air concernée Autres remarques: Toute information utile Qui dois-je contacter ? Pour envoyer vos réponses, visitez app.workways.com et utilisez le widget de chat en bas à droite de l’écran. Cliquez sur Demandez pour contacter le Help Center Workways. L’équipe vous répondra dans les plus brefs délais.",
+    "url": "https://support.workways.com/docs/signaler-un-probleme-de-chauffage-ou-de-climatisation/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.748703Z"
+  },
+  {
+    "id": "38478e0c0d56e29a32f239ca9bed0260074127c59105c15913d901f8acc0aa04",
+    "question": "Enfants dans les espaces Workways",
+    "answer": "Les espaces Workways ne sont pas conçus pour accueillir des enfants. Néanmoins, nous acceptons que les membres puissent montrer à leurs enfants les espaces où ils travaillent, à condition de respecter les règles ci-dessous : Toujours accompagnés : les enfants doivent rester avec leurs parents. Respect des lieux et des autres : merci d’encourager vos enfants à rester calmes et à ne pas courir ou crier dans les espaces communs. Responsabilité parentale : les parents sont responsables du comportement de leurs enfants et de tout ce qui pourrait leur arriver dans le bâtiment.",
+    "url": "https://support.workways.com/docs/enfants-dans-les-espaces-workways/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.777661Z"
+  },
+  {
+    "id": "95f7cfa0e6bcd75c6faa7387adbf121ee333f95ad6255e5ced6b47dd765f923d",
+    "question": "Animaux dans les espaces Workways",
+    "answer": "La présence d’animaux est encadrée afin de préserver le confort et la sécurité de tous : Animaux de compagnie : ils ne sont en principe pas admis dans les espaces (à l’exception des chiens d’assistance, toujours les bienvenus). Petits chiens : ils peuvent être exceptionnellement autorisés dans un bureau privé, sur demande préalable et après validation, mais ne sont pas admis dans les espaces communs. Responsabilité : les propriétaires sont responsables de leurs animaux en toutes circonstances.",
+    "url": "https://support.workways.com/docs/animaux-dans-les-espaces-workways/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.806500Z"
+  },
+  {
+    "id": "2c32d2b63be9b0b1d2fbb14c7c1ef1e5d39f2e63fa34ae0cc2a9f873e999db50",
+    "question": "Comprendre les consignes d’utilisation",
+    "answer": "Ce mode d’emploi vient en complément du règlement d’ordre intérieur annexé à votre contrat de location.",
+    "url": "https://support.workways.com/docs/comprendre-les-consignes-dutilisation/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.835213Z"
+  },
+  {
+    "id": "310115895ce5d905f9c77a29951790cd0b12b0ae422f4da192c58f0ad7f4bb7d",
+    "question": "Système de sécurité vidéo Workways",
+    "answer": "🎥 1. Workways dispose-t-il d’un système de surveillance vidéo ? Non. Workways ne pratique aucune surveillance de ses clients, de leurs invités ni de leurs activités. Le dispositif installé est un système de sécurité , non un système de surveillance. Son objectif est la protection des personnes et des biens , uniquement en cas d’incident avéré (vol, dégradation, mise en danger, etc.). 🔒 2. Quelle est la différence entre un système de sécurité et un système de surveillance ? Un système de sécurité fonctionne de manière passive : les caméras enregistrent en continu, mais les images ne sont consultées que lorsqu’un événement grave ou anormal le justifie , et jamais à titre préventif ou de curiosité . Un système de surveillance , à l’inverse, impliquerait un suivi ou un contrôle des personnes en temps réel, ce que Workways ne fait pas . 👁️ 3. Qui peut accéder aux images vidéo ? Un nombre très restreint de collaborateurs a accès aux images. Ces collaborateurs : sont formellement autorisés dans le cadre de leur contrat de travail ; ont reçu une formation spécifique à la protection des données ; voient leurs accès strictement contrôlés et tracés (caméras consultées, dates, heures, motifs). 🧾 4. Dans quelles conditions les images peuvent-elles être consultées ? Les enregistrements ne peuvent être consultés que dans un cadre précis : lorsqu’un incident grave ou suspect est signalé ; sur demande d’une autorité compétente (police, gendarmerie, justice) ; et jamais pour répondre directement à une plainte interne ou une simple demande d’information. La première règle est donc : aucune consultation sans motif légitime et autorisation formelle . 📋 5. Les consultations sont-elles tracées ? Oui. Chaque consultation est journalisée : l’identité du collaborateur autorisé, la date et l’heure de consultation, la ou les caméras concernées, le motif de l’accès. Ces informations sont conservées pour assurer la traçabilité et la conformité RGPD . ⚖️ 6. Que devient le résultat des investigations ? Le résultat éventuel d’une vérification vidéo n’est jamais transmis directement à la personne plaignante. Il est communiqué uniquement aux autorités compétentes , si celles-ci le demandent dans le cadre légal. 🧠 7. Le dispositif respecte-t-il le RGPD ? Oui. Le système est conçu et géré conformément au Règlement Général sur la Protection des Données (RGPD) : Les images ne sont conservées que pour une durée limitée et proportionnée à la finalité de sécurité. L’accès est restreint, justifié et tracé. Les personnes concernées disposent des droits d’accès, d’information et de rectification prévus par la loi (via contact auprès du délégué à la protection des données – DPO Workways). 🤝 8. Quelle est la philosophie de Workways sur ce sujet ? La sécurité des lieux et des personnes est essentielle, mais elle ne doit jamais se faire au détriment de la confiance ni du respect de la vie privée . Notre priorité est d’offrir à chacun un environnement serein, sûr et respectueux des droits individuels.",
+    "url": "https://support.workways.com/docs/systeme-de-securite-video-workways/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.867237Z"
+  },
+  {
+    "id": "45ea88b5ee6d22ed5e5c4b90ec3020ad595f38b78f4ebbff44bd4fa1b15c121c",
+    "question": "Tournage dans les espaces Workways: comment procéder ?",
+    "answer": "Puis-je tourner chez Workways ? Oui, c’est possible avec un accord préalable. Comment obtenir l’autorisation ? Contactez le responsable du centre avec votre demande (date, horaires, espaces souhaités, taille de l’équipe, matériel). Y a-t-il des conditions ou des frais ? Oui. Un devis et des conditions de tournage (zones autorisées, horaires, assurances, règles de discrétion) vous seront communiqués. Peut-on tourner dans les espaces communs ? Oui, si cela a été validé à l’avance et dans le respect des autres occupants.",
+    "url": "https://support.workways.com/docs/tournage/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.896555Z"
+  },
+  {
+    "id": "b51bfc13d309c68203116d0248a00ba77c52d21d10d47e0da99d958e35afb547",
+    "question": "Rapport énergétique pour votre bilan CSRD",
+    "answer": "Qu’est-ce que le rapport énergétique proposé par Workways ? Il s’agit d’un document personnalisé que nous mettons à disposition de nos clients, regroupant les données de consommation énergétique et hydrique relatives à leur présence dans nos espaces. Il est conçu pour vous aider à remplir les obligations de reporting environnemental dans le cadre de la directive CSRD (Corporate Sustainability Reporting Directive). Que contient ce rapport ? Le rapport inclut : La consommation énergétique de votre bureau privatif (électricité, chauffage, etc.). La consommation d’eau estimée pour vos salariés dans les bureaux. Une quote-part de la consommation des parties communes du bâtiment (énergie et eau), calculée en fonction de votre surface ou de votre taux d’occupation. Comment ces données sont-elles collectées ? Workways s’engage dans une démarche de transparence environnementale. Nos bâtiments sont équipés de systèmes de mesure et de suivi de la performance énergétique, nous permettant de produire des estimations fiables et structurées, en conformité avec les standards du reporting durable. Comment obtenir mon rapport énergétique ? Pour commander votre rapport, il vous suffit de vous rapprocher de notre équipe commerciale Workways. Elle pourra : Vous confirmer la faisabilité du rapport pour votre contrat. Vous transmettre le coût de la prestation liée à sa réalisation. Lancer la demande auprès de nos équipes techniques. Une fois la commande validée, nous nous engageons à vous livrer le rapport sous 10 jours ouvrés. À quoi peut me servir ce rapport ? Ce rapport vous permet de : Alimenter les indicateurs environnementaux de votre rapport de durabilité. Répondre aux exigences réglementaires de la CSRD, notamment sur les émissions indirectes (scope 3). Mieux comprendre votre empreinte environnementale dans nos espaces partagés. Et si mon entreprise est engagée dans une démarche bas carbone ? Parfait ! Ce rapport est un point de départ précieux pour évaluer votre impact, fixer des objectifs de réduction, ou encore améliorer la traçabilité de vos engagements RSE. Notre équipe peut aussi vous orienter vers des pistes d’optimisation au sein de nos espaces.",
+    "url": "https://support.workways.com/docs/rapport-energetique-pour-votre-bilan-csrd/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.931705Z"
+  },
+  {
+    "id": "3da2fa707d2ee6fb3901a04fa272930313a8cc83d279302ceea84fca9972acc0",
+    "question": "Comment accéder à la facturation détaillée",
+    "answer": "Pour consulter votre facture : 1. Cliquez sur le lien que vous avez reçu par e-mail ou via Peppol, ou 2. Cliquez directement sur le titre de la facture dans l’application Workways, puis suivez les étapes ci-dessous : Connectez-vous sur app.workways.com , cliquez sur le menu W et sélectionnez Factures . Trouvez la facture que vous souhaitez consulter et cliquez sur le titre de la facture pour l’ouvrir. Utilisez les boutons prévus pour télécharger les lignes de la facture, les détails de la réunion ou les détails des recharges VE.",
+    "url": "https://support.workways.com/docs/facturation/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.961196Z"
+  },
+  {
+    "id": "37a634b2535e782e95e2084725a8a9fe9103651e86f0d544d30adf79d24ee016",
+    "question": "Obtenir de l’aide chez Workways",
+    "answer": "Visitez app.workways.com , où vous trouverez un widget de chat en bas à droite de l’écran – un moyen rapide et facile de nous contacter. Une fois le widget ouvert, vous verrez deux options : Aide : Cette section vous donne accès à des documents et guides utiles où vous trouverez des réponses à la plupart de vos questions. Demandez : Cette option vous permet de nous contacter via un formulaire en ligne si vous n’avez pas trouvé l’information que vous cherchiez. Nous vous répondrons dès que possible.",
+    "url": "https://support.workways.com/docs/obtenir-de-laide-chez-workways/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:32.990009Z"
+  },
+  {
+    "id": "4793a53ea2467ed9b1a3158e91e9f156363a09bbc7b50aa8ac483df7600e144a",
+    "question": "Waya – Obtenir de l’aide chez Workways",
+    "answer": "Waya, notre aide AI, est là pour rendre le support plus rapide et plus simple pour vous. Utilisez Waya dès que vous avez une question : il vous guidera vers les bonnes informations et partagera des liens vers les FAQ et articles d’aide pertinents. Si un problème ne peut pas être résolu avec les ressources disponibles, Waya vous indiquera la démarche appropriée pour obtenir une assistance supplémentaire. 1. En haut à droite de l’application Workways , cliquez sur le bouton Waya (l’icône W ) pour ouvrir Waya . 2. Vous pouvez commencer une conversation et poser votre question en cliquant sur Nouvelle conversation . Vous pouvez également effectuer une recherche pour retrouver vos conversations précédentes. Trois options rapides sont disponibles : Comment réserver , Signaler un problème ou Autre question (pour toute autre demande). 3. Si vous commencez une nouvelle conversation, voici à quoi cela ressemble dans Waya . Il vous suffit de taper une question ou de décrire un problème (par exemple : « Ma carte d’accès ne fonctionne plus », « Comment réserver une salle de réunion ? » ou « Le Wi-Fi ne fonctionne pas ») et Waya vous répondra avec des instructions et des liens vers les FAQ correspondantes. Exemple : 4. Lorsque vous cliquez sur le menu (⋮) , vous pourrez également voir les options suivantes : Quitter la conversation – fermer la conversation en cours. Copier la conversation – copier le texte de la conversation. Archiver – archiver la conversation pour une consultation ultérieure. Envoyer le ticket – contacter l’équipe du Help Center Workways pour obtenir de l’assistance. Supprimer la conversation – supprimer définitivement la conversation. 5. Parmi les options disponibles, cliquez sur Envoyer le ticket pour contacter l’équipe du Help Center Workways , ou sur Envoyer le rapport une fois que Waya a recueilli certaines informations pour identifier le problème. 6. Une fois que vous cliquez sur ce bouton, un message de confirmation suivant s’affichera : 7. Vous recevrez prochainement un email automatisé confirmant que votre demande a été reçue avec succès par l’équipe du Help Center Workways . Cet email comprendra un bref résumé de votre problème, un numéro de référence de ticket pour le suivi, ainsi que des instructions pour fournir des informations supplémentaires ou clôturer le ticket une fois que votre problème sera résolu. 8. Pour clôturer Waya, cliquez sur l’icône X en haut à droite de l’application Workways. Vous pouvez également cliquer sur le bouton Fermer et cocher : Ne plus afficher.",
+    "url": "https://support.workways.com/docs/waya/",
+    "section": null,
+    "tags": [],
+    "last_seen_at": "2026-02-23T21:26:33.022059Z"
+  }
+]
